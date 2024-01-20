@@ -1,2 +1,1 @@
-# Disgram
 Chat application.
